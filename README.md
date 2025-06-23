@@ -4,6 +4,7 @@ Este é um projeto simples de currículo pessoal desenvolvido com HTML, CSS e Ja
 
 ## Estrutura de Pastas
 curriculo/
+
 ├── index.html # Página principal
 
 ├── style.css # Estilos visuais (cores, fontes, layout)
