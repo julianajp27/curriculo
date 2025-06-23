@@ -1,15 +1,19 @@
 # curriculo
 Este é meu curriculo em HTML
-# 💼 Currículo Online - Juliana Jardim
+# Currículo Online - Juliana Jardim
 
 Este é um projeto simples de currículo pessoal desenvolvido com HTML, CSS e JavaScript. Ele exibe informações básicas como formação, experiência, projetos e uma foto de perfil, com estilo moderno e interação para mostrar mais detalhes.
 
 ## Estrutura de Pastas
 curriculo/
 ├── index.html # Página principal
+
 ├── style.css # Estilos visuais (cores, fontes, layout)
+
 ├── script.js # Função para mostrar/ocultar detalhes
+
 └── images/
+
 └── juliana.jpg # Foto de perfil
 
 
